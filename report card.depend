@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600913143 source:c:\users\user\documents\projects\report card\main.c
+	<stdio.h>
+	<stdlib.h>
+
